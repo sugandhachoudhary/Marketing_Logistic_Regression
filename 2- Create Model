@@ -1,4 +1,4 @@
-CREATE OR REPLACE MODEL `ecommerce.classification_model`
+CREATE OR REPLACE MODEL `ds1.classification_model`
 OPTIONS
 (
 model_type='logistic_reg',
