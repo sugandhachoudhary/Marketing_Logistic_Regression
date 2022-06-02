@@ -1,4 +1,4 @@
-# Marketing_Logistic_Regression
+# Marketing Analytics - Logistic Regression
 
 In this lab, we will be building an ML model that predicts customer propensity to purchase. This model is built using Google Cloud Platform. BigQuery is Google Cloud's serverless data wareshouse that lets you build ML models using SQL.
 
